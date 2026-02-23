@@ -65,13 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Current Goals  
 
@@ -94,12 +88,12 @@
 
 I treat coding like a sport — consistency beats motivation.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=amirpiib07&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=tokyonight)
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Snake animation](https://github.com/amirpiib07/amirpiib07/blob/output/github-contribution-grid-snake.svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;DSA+Enthusiast;Competitive+Programmer;Consistent+Learner)](https://git.io/typing-svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=amirpiib07&color=blue)
