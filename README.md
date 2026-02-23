@@ -7,6 +7,37 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirpiib07&theme=github_dark&hide_border=true" />
+</p>
+
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+![Snake animation](https://raw.githubusercontent.com/amirpiib07/amirpiib07/output/github-contribution-grid-snake.svg)
+
+Java        ▰▰▰▰▰▰▰▰▱▱ 90%
+Python      ▰▰▰▰▰▰▰▱▱▱ 70%
+C++         ▰▰▰▰▰▰▱▱▱▱ 60%
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=amirpiib07&theme=tokyonight)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;DSA+Enthusiast;Competitive+Programmer;Consistent+Learner)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=amirpiib07&color=blue)
+
+
 ## 🧠 About Me  
 
 - 🎯 Strong interest in Data Structures & Algorithms  
@@ -89,11 +120,4 @@
 I treat coding like a sport — consistency beats motivation.
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amirpiib07&theme=tokyonight)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;DSA+Enthusiast;Competitive+Programmer;Consistent+Learner)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=amirpiib07&color=blue)
