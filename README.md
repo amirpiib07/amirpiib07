@@ -20,15 +20,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/amirpiib07/amirpiib07/output/github-contribution-grid-snake.svg)
 
-Java        ▰▰▰▰▰▰▰▰▱▱ 90%
-Python      ▰▰▰▰▰▰▰▱▱▱ 70%
-C++         ▰▰▰▰▰▰▱▱▱▱ 60%
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=default&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=amirpiib07&theme=tokyonight)
+
+
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
