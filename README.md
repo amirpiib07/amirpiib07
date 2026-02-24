@@ -6,33 +6,57 @@
 🚀 Focused on problem solving, optimization, and building real-world projects  
 
 ---
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirpiib07&theme=github_dark&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Researcher+in+the+making;Dual+Degree+@+SVNIT+Surat;Competitive+Programmer" alt="Typing SVG" />
 </p>
 
-## 💻 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=github_dark&hide_border=true" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-FF6F61?style=for-the-badge&logo=datastructures&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-0078D4?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amit's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amirpiib07&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophy" />
+</p>
 
+### 🏆 Competitive Programming
+<p align="left">
+  <a href="https://leetcode.com/amirpiib07" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/amirpiib07" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+</p>
 
+---
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/amirpiib07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@amirpiib07" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Student;DSA+Enthusiast;Competitive+Programmer;Consistent+Learner)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=amirpiib07&color=blue)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ## 🧠 About Me  
 
