@@ -1,6 +1,6 @@
 # Hi there, I'm AMIT KUMAR SINGH! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Artificial+%26+Intelligence+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Artificial+Intelligence+Undergrad+%40+SVNIT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)](https://git.io/typing-svg)
 
 I am a first-year **B.Tech + M.Tech student in Artificial Intelligence** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
 
