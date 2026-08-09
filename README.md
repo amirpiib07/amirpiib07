@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&width=435&lines=Artificial+Intelligence+Undergrad+%40+SVNIT+SURAT;Competitive+Programmer+(C%2B%2B);Building+Data+%26+AI+Solutions;Learning+MERN+Stack)](https://git.io/typing-svg)
 
-I am a first-year **B.Tech + M.Tech student in Artificial Intelligence** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
+I am a second-year **B.Tech + M.Tech student in Artificial Intelligence** at **SVNIT, Surat**. I love solving algorithmic problems and building data-driven applications.
 
 - 🔭 I’m currently working on an **University MIS and Quiz Application System** using Java.
 - 📫 How to reach me: **amirpiib07@gmail.com**
