@@ -186,28 +186,6 @@ Learn → Understand → Build → Solve → Improve → Repeat
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=amirpiib07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirpiib07&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=amirpiib07&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 📈 GitHub Activity
 
 <div align="center">
@@ -218,25 +196,6 @@ Learn → Understand → Build → Solve → Improve → Repeat
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amirpiib07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/amirpiib07/amirpiib07/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 # 📅 GitHub Contribution Heatmap
 
