@@ -1,6 +1,13 @@
 <div align="center">
 
-# ✨ AMIT KUMAR SINGH
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AMIT%20KUMAR%20SINGH&fontSize=42&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" />
+</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Integrated+B.Tech+%2B+M.Tech+in+Artificial+Intelligence;Building+%7C+Learning+%7C+Solving;Software+Engineering+%7C+AI+%7C+Algorithms;Turning+Ideas+into+Working+Systems" />
+
+</div>
 
 ### `Artificial Intelligence Student` · `Software Developer` · `Problem Solver`
 
