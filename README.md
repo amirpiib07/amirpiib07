@@ -301,42 +301,8 @@ A Java-based university course management system designed with **Object-Oriented
 `Java` `OOP` `JDBC` `MySQL` `Swing` `Git`
 
 🔗 **Repository:**
-https://github.com/amirpiib07/UniversityCourseSystem
-
+(https://github.com/amirpiib07/University-MIS)
 ---
-
-## 🤖 Artificial Intelligence / Machine Learning Project
-
-> Replace this section with your strongest AI/ML project.
-
-### Focus
-
-* Machine Learning
-* Data Processing
-* Model Development
-* Evaluation
-* Visualization
-
-### Technologies
-
-`Python` `NumPy` `Pandas` `Scikit-Learn` `TensorFlow`
-
-🔗 **Repository:**
-https://github.com/amirpiib07/YOUR_AI_PROJECT
-
----
-
-## 🌐 Web Development Project
-
-> Replace this section with your strongest Web Development project.
-
-### Technologies
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**
-https://github.com/amirpiib07/YOUR_WEB_PROJECT
-
 ---
 
 # 📚 Learning Journey
@@ -369,7 +335,7 @@ https://github.com/amirpiib07/YOUR_WEB_PROJECT
 | Version Control | Git                              |
 | Repository      | GitHub                           |
 | Database        | MySQL                            |
-| OS              | Windows / Linux                  |
+| OS              | Windows                          |
 | Languages       | C++ / Java / Python / JavaScript |
 
 ---
