@@ -1,28 +1,25 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AMIT%20KUMAR%20SINGH&fontSize=42&fontAlignY=38&desc=Artificial%20Intelligence%20Student%20%7C%20Software%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=AMIT%20KUMAR%20SINGH&fontSize=42&fontAlignY=38&desc=Student%20%7C%20Programmer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" />
 </p>
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Integrated+B.Tech+%2B+M.Tech+in+Artificial+Intelligence;Building+%7C+Learning+%7C+Solving;Software+Engineering+%7C+AI+%7C+Algorithms;Turning+Ideas+into+Working+Systems" />
-
-</div>
-
-### `Artificial Intelligence Student` · `Software Developer` · `Problem Solver`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Integrated+B.Tech+%2B+M.Tech+in+Artificial+Intelligence;Building+%7C+Learning+%7C+Solving;Software+Engineering+%7C+AI+%7C+Algorithms;Turning+Ideas+into+Working+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Data+Structures+%26+Algorithms;C%2B%2B+%7C+Java+%7C+Python;DBMS+%7C+MySQL+%7C+OOP;Learning+%7C+Solving+%7C+Improving" />
 
 <br>
 
 <a href="https://github.com/amirpiib07">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://www.linkedin.com/in/amirpiib07/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
+
+ 
+
 <a href="https://leetcode.com/u/amirpiib07/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
@@ -37,139 +34,176 @@
 
 # 👨‍💻 About Me
 
-Hello! I'm **Amit Kumar Singh**, an **Integrated B.Tech + M.Tech student in Artificial Intelligence at SVNIT Surat**.
+Hello! I'm **Amit Kumar Singh**, a student interested in programming, problem solving, and core computer science fundamentals.
 
-I am deeply interested in the intersection of:
+Currently, I am focused on strengthening my knowledge in:
 
-**Artificial Intelligence · Software Engineering · Algorithms · Data · Problem Solving**
+**Data Structures & Algorithms · C++ · Java · Python · OOP · DBMS · MySQL**
 
-I enjoy going beyond simply using technologies — I like understanding the fundamentals behind them, solving challenging problems, and turning concepts into practical projects.
-
-Currently, I'm focused on strengthening my foundations in **Computer Science, Software Development, Artificial Intelligence, and Algorithmic Problem Solving** while continuously building and improving projects.
+I believe in understanding concepts deeply, solving problems consistently, and improving step by step.
 
 ```text
-Learn → Understand → Build → Solve → Improve → Repeat
+Learn → Understand → Solve → Improve → Repeat
 ```
 
 ---
 
-# 🎓 Education
+# 🧠 What I Know
 
 <div align="center">
 
-### 🏛️ Sardar Vallabhbhai National Institute of Technology, Surat
-
-**Integrated B.Tech + M.Tech in Artificial Intelligence**
-
-📍 Surat, Gujarat, India
+|        🧩 DSA       | ☕ Programming |   🗄️ Databases   |
+| :-----------------: | :-----------: | :---------------: |
+|   Data Structures   |      C++      |        DBMS       |
+|      Algorithms     |      Java     |       MySQL       |
+|   Problem Solving   |     Python    |        SQL        |
+| Complexity Analysis |      OOP      | Database Concepts |
 
 </div>
-
-### Academic Performance
-
-|    Qualification    |   Score   |
-| :-----------------: | :-------: |
-|     **Class X**     |  **88%**  |
-|    **Class XII**    | **90.6%** |
-| **Semester 1 SGPA** |  **9.80** |
-| **Semester 1 CGPA** |  **9.80** |
-| **Semester 2 SGPA** |  **9.09** |
-| **Semester 2 CGPA** |  **9.42** |
 
 ---
 
 # 💻 Technology Stack
 
-### Languages
+### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python" />
 </p>
 
-### Web Development
+### Core Computer Science
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+<p align="center">
 
-### AI / Machine Learning
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1F1F1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-1F1F1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-1F1F1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-1F1F1F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,clion,linux" />
 </p>
 
 ---
 
-# 🧠 Areas of Interest
+# 🧩 Data Structures & Algorithms
+
+My current problem-solving focus includes:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks
+* Queues
+* Hashing
+* Trees
+* Graphs
+* Recursion
+* Sorting
+* Searching
+* Dynamic Programming
+* Greedy Algorithms
+* Advanced Data Structures
+* Time & Space Complexity
+
+> Continuously learning and solving problems to strengthen algorithmic thinking.
+
+---
+
+# ☕ Programming
+
+### C++
+
+C++ is one of my primary languages for:
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Problem Solving
+* Understanding low-level programming concepts
+
+### Java
+
+Currently strengthening Java with focus on:
+
+* Core Java
+* Object-Oriented Programming
+* Classes & Objects
+* Inheritance
+* Polymorphism
+* Abstraction
+* Encapsulation
+* Exception Handling
+* Collections
+
+### Python
+
+Using Python to build programming fundamentals and improve problem-solving skills.
+
+---
+
+# 🏗️ Object-Oriented Programming
+
+Currently learning and strengthening the core principles of OOP:
+
+```text
+                Object-Oriented Programming
+                         │
+        ┌────────────────┼────────────────┐
+        ↓                ↓                ↓
+   Encapsulation     Inheritance      Polymorphism
+                         │
+                         ↓
+                    Abstraction
+```
+
+---
+
+# 🗄️ DBMS & MySQL
+
+My database learning currently focuses on:
+
+* Database Fundamentals
+* DBMS Concepts
+* Relational Databases
+* SQL
+* MySQL
+* Tables
+* Keys
+* Constraints
+* Data Types
+* Queries
+* Database Design
+* Normalization
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+# 📚 Current Learning Journey
 
 <div align="center">
 
-| 🤖 Artificial Intelligence |   💻 Software Engineering   |
-| :------------------------: | :-------------------------: |
-|      Machine Learning      |       Java Development      |
-|        Deep Learning       | Object-Oriented Programming |
-|         AI Systems         |     Backend Development     |
-|       Data Processing      |    Software Architecture    |
-
-|       🧩 Algorithms      |     🗄️ Data     |
-| :----------------------: | :--------------: |
-|      Problem Solving     |        SQL       |
-|     Algorithm Design     | Database Systems |
-|  Competitive Programming |  Data Management |
-| Advanced Data Structures |   Data Analysis  |
-
-</div>
-
----
-
-# 🚀 What I'm Currently Working On
-
-* 🧠 Strengthening **Data Structures & Algorithms**
-* ☕ Advancing my **Java development skills**
-* 🗄️ Mastering **SQL and database systems**
-* 🌐 Developing stronger **Web Development** skills
-* 🤖 Building foundations for **AI / Machine Learning**
-* 🏗️ Creating practical and portfolio-worthy projects
-* 💻 Improving my problem-solving skills through coding platforms
-* 📚 Strengthening core Computer Science fundamentals
-
----
-
-# 🏆 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/u/amirpiib07/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://codeforces.com/profile/amirpiib07">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/users/amirpiib07">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/user/amirpiib07/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/amirpiib07">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
+```text
+┌─────────────────────────────────────────────┐
+│              CURRENT FOCUS                  │
+├─────────────────────────────────────────────┤
+│                                             │
+│   🧩 Data Structures & Algorithms           │
+│                                             │
+│   ⚡ C++                                    │
+│                                             │
+│   ☕ Java                                   │
+│                                             │
+│   🐍 Python                                 │
+│                                             │
+│   🏗️ Object-Oriented Programming           │
+│                                             │
+│   🗄️ DBMS                                  │
+│                                             │
+│   🐬 MySQL                                  │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -203,7 +237,6 @@ Learn → Understand → Build → Solve → Improve → Repeat
 
 ---
 
-
 # 📅 GitHub Contribution Heatmap
 
 <div align="center">
@@ -214,216 +247,89 @@ Learn → Understand → Build → Solve → Improve → Repeat
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎓 University Course Management System
-
-A Java-based university course management system designed with **Object-Oriented Programming, layered architecture, exception handling, JDBC, and MySQL**.
-
-### Highlights
-
-* 🔐 Authentication system
-* 👨‍🎓 Student management
-* 👨‍🏫 Professor management
-* 👨‍💼 Administrator functionality
-* 📚 Course management
-* 📝 Course enrollment
-* 📊 Grade management
-* ⚠️ Custom exception handling
-* 🗄️ MySQL database
-* 🔌 JDBC connectivity
-* 🏗️ Layered architecture
-
-### Architecture
+# 🎯 My Current Goal
 
 ```text
-                 ┌─────────────────┐
-                 │   User Interface │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Service Layer   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Repository Layer│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   JDBC / DB     │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      MySQL      │
-                 └─────────────────┘
-```
-
-### Tech Stack
-
-`Java` `OOP` `JDBC` `MySQL` `Swing` `Git`
-
-🔗 **Repository:**
-(https://github.com/amirpiib07/University-MIS)
----
----
-
-# 📚 Learning Journey
-
-### Programming
-
-`C` · `C++` · `Java` · `Python` · `JavaScript`
-
-### Computer Science
-
-`OOP` · `DBMS` · `SQL` · `DAA` · `Computer Organization` · `Operating Systems` · `Computer Networks`
-
-### Development
-
-`Git` · `GitHub` · `JDBC` · `MySQL` · `Web Development`
-
-### Artificial Intelligence
-
-`Python for AI` · `Machine Learning` · `Deep Learning` · `Artificial Intelligence`
-
----
-
-# 🧰 Development Environment
-
-| Category        | Tools                            |
-| --------------- | -------------------------------- |
-| IDE             | IntelliJ IDEA                    |
-| IDE             | CLion                            |
-| Editor          | VS Code                          |
-| Version Control | Git                              |
-| Repository      | GitHub                           |
-| Database        | MySQL                            |
-| OS              | Windows                          |
-| Languages       | C++ / Java / Python / JavaScript |
-
----
-
-# 🎯 2026 Goals
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    2026 OBJECTIVES                       │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  🧠 Strengthen DSA & Advanced Algorithms                 │
-│  ☕ Become highly proficient in Java                     │
-│  🤖 Build strong AI / ML foundations                     │
-│  🗄️ Master SQL & Database Systems                        │
-│  🌐 Improve Web Development                              │
-│  🏗️ Build production-quality projects                   │
-│  💻 Improve competitive programming                      │
-│  📚 Strengthen core Computer Science                     │
-│  🚀 Build a strong engineering portfolio                 │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+                STRONG COMPUTER SCIENCE FUNDAMENTALS
+                              │
+              ┌───────────────┼───────────────┐
+              ↓               ↓               ↓
+             DSA          Programming      Databases
+              │               │               │
+              ↓               ↓               ↓
+        Problem Solving   C++ · Java       DBMS · MySQL
+                              │
+                              ↓
+                             OOP
+                              │
+                              ↓
+                       Continuous Growth
 ```
 
 ---
 
-# 🏗️ My Development Philosophy
+# 🏆 Coding Profiles
 
 <div align="center">
-
-### **Understand deeply. Build consistently. Improve continuously.**
-
-</div>
-
-```text
-                    ┌───────────────┐
-                    │    LEARN      │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │   UNDERSTAND  │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     SOLVE     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    IMPROVE    │
-                    └───────┬───────┘
-                            ↓
-                         REPEAT
-```
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/amirpiib07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amirpiib07/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:amirpiib07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://leetcode.com/u/amirpiib07/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://codeforces.com/profile/amirpiib07">
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+ 
+
+<a href="https://github.com/amirpiib07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🤝 Open to Collaboration
+# 🧠 My Development Philosophy
 
-I'm interested in collaborating on:
+<div align="center">
 
-* 🤖 Artificial Intelligence projects
-* 🧠 Machine Learning
-* 💻 Software Engineering
-* 🌐 Web Development
-* 🏗️ Open Source
-* 🧩 Algorithmic Problem Solving
-* 🔬 Interesting technical projects
-* 🎓 Student & academic projects
+### **Understand deeply. Solve consistently. Improve continuously.**
 
-Feel free to reach out if you'd like to build something together.
+```text
+             LEARN
+               ↓
+          UNDERSTAND
+               ↓
+            PRACTICE
+               ↓
+             SOLVE
+               ↓
+            IMPROVE
+               ↓
+            REPEAT
+```
+
+</div>
 
 ---
 
 # ⚡ Developer Mode
 
-```java
-public class Amit {
+```cpp
+#include <iostream>
+using namespace std;
 
-    public static void main(String[] args) {
+int main() {
 
-        String mindset = "Always Learning";
-        String goal = "Build Meaningful Technology";
+    string mindset = "Always Learning";
+    string goal = "Become Better Every Day";
 
-        while (true) {
-            learn();
-            build();
-            solve();
-            improve();
-        }
+    while (true) {
+
+        learn();
+        practice();
+        solve();
+        improve();
     }
+
+    return 0;
 }
 ```
 
@@ -431,29 +337,20 @@ public class Amit {
 
 # 🌟 A Little More About Me
 
-```text
-🎓 AI Student
-💻 Software Developer in Progress
-🧠 Problem Solver
-🤖 AI/ML Enthusiast
-☕ Java Learner
-⚡ C++ Programmer
-🌐 Web Development Explorer
-🗄️ SQL & Database Enthusiast
-🚀 Open to Learning & Collaboration
-```
-
----
-
-# 📌 Profile Highlights
-
 <div align="center">
 
-|        🎓 Education        | 💻 Development |    🧠 Problem Solving   |
-| :------------------------: | :------------: | :---------------------: |
-|         SVNIT Surat        |      Java      |         LeetCode        |
-|   Artificial Intelligence  |       C++      | Competitive Programming |
-| Integrated B.Tech + M.Tech |     Python     |        Algorithms       |
+```text
+🎓 Student
+🧩 DSA Learner
+⚡ C++ Programmer
+☕ Java Learner
+🐍 Python Programmer
+🏗️ OOP Learner
+🗄️ DBMS Learner
+🐬 MySQL Learner
+💻 Problem Solver
+🚀 Always Learning
+```
 
 </div>
 
@@ -465,7 +362,7 @@ public class Amit {
 
 ### *"Consistency compounds."*
 
-**Keep learning. Keep building. Keep solving. 🚀**
+**Keep learning. Keep solving. Keep improving. 🚀**
 
 </div>
 
@@ -474,8 +371,6 @@ public class Amit {
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
-
-If you find something interesting here, feel free to ⭐ a repository.
 
 <br>
 
